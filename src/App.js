@@ -10,6 +10,10 @@ export default function App() {
     {
       name: "yoshiko",
       age: 30
+    },
+    {
+      name:"akihito",
+      age: 200
     }
   ];
   return (
